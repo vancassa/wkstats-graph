@@ -26,7 +26,6 @@ Colors.random = function () {
   for (var i = 0; i < 6; i++) {
     color += letters[Math.round(Math.random() * 15)];
   }
-  console.log(`color`, color);
   return this.luminance(color, 0.1);
 };
 

@@ -25,6 +25,19 @@ var ctx = document.getElementById("myChart").getContext("2d");
 var myChart = new Chart(ctx, {
   type: "line",
   options: {
+    interaction: {
+      mode: "nearest",
+    },
+    plugins: {
+      tooltip: {
+        mode: "nearest",
+        intersect: false,
+        callbacks: {
+          title: (context) => "Level " + context[0].label,
+          label: (context) => `${context.dataset.label}: ${context.formattedValue}%`,
+        },
+      },
+    },
     scales: {
       x: { title: { text: "Level", display: true } },
       y: {
