@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wanikani Stats</title>
+  </head>
+  <body>
+    <select id="type">
+      <option value="jlpt">JLPT</option>
+      <option value="joyo">Joyo</option>
+      <option value="frequency">Frequency</option>
+      <option value="reading">Reading</option>
+    </select>
+    <div style="max-width: 1400px"><canvas id="myChart" width="400" height="200"></canvas></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.4.1/dist/chart.min.js"></script>
+    <script src="color.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

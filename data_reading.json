@@ -1,0 +1,482 @@
+[
+  {
+    "level": 1,
+    "Aozora Books": 7.94,
+    "NHK Easy": 7.51,
+    "Online News": 5.02,
+    "Twitter": 5.49,
+    "Wikipedia": 4.89
+  },
+  {
+    "level": 2,
+    "Aozora Books": 15.87,
+    "NHK Easy": 17.32,
+    "Online News": 13.43,
+    "Twitter": 13.51,
+    "Wikipedia": 13.88
+  },
+  {
+    "level": 3,
+    "Aozora Books": 20.66,
+    "NHK Easy": 22.37,
+    "Online News": 18.59,
+    "Twitter": 19.25,
+    "Wikipedia": 18.13
+  },
+  {
+    "level": 4,
+    "Aozora Books": 25.91,
+    "NHK Easy": 28.59,
+    "Online News": 23.07,
+    "Twitter": 24.1,
+    "Wikipedia": 24.83
+  },
+  {
+    "level": 5,
+    "Aozora Books": 32.93,
+    "NHK Easy": 37.62,
+    "Online News": 28.86,
+    "Twitter": 31.2,
+    "Wikipedia": 31.01
+  },
+  {
+    "level": 6,
+    "Aozora Books": 38.69,
+    "NHK Easy": 45.38,
+    "Online News": 36.09,
+    "Twitter": 38.29,
+    "Wikipedia": 37.05
+  },
+  {
+    "level": 7,
+    "Aozora Books": 42.18,
+    "NHK Easy": 49.24,
+    "Online News": 40.19,
+    "Twitter": 42.15,
+    "Wikipedia": 40.72
+  },
+  {
+    "level": 8,
+    "Aozora Books": 45.84,
+    "NHK Easy": 54.77,
+    "Online News": 44.42,
+    "Twitter": 45.98,
+    "Wikipedia": 45.13
+  },
+  {
+    "level": 9,
+    "Aozora Books": 50.12,
+    "NHK Easy": 61.7,
+    "Online News": 50.95,
+    "Twitter": 50.99,
+    "Wikipedia": 50.66
+  },
+  {
+    "level": 10,
+    "Aozora Books": 52.96,
+    "NHK Easy": 65.64,
+    "Online News": 54.47,
+    "Twitter": 54.7,
+    "Wikipedia": 53.92
+  },
+  {
+    "level": 11,
+    "Aozora Books": 55.48,
+    "NHK Easy": 67.91,
+    "Online News": 57.7,
+    "Twitter": 57.6,
+    "Wikipedia": 57.46
+  },
+  {
+    "level": 12,
+    "Aozora Books": 57.92,
+    "NHK Easy": 71.3,
+    "Online News": 60.83,
+    "Twitter": 60.92,
+    "Wikipedia": 60.68
+  },
+  {
+    "level": 13,
+    "Aozora Books": 60.09,
+    "NHK Easy": 73.68,
+    "Online News": 63.25,
+    "Twitter": 63.76,
+    "Wikipedia": 63.04
+  },
+  {
+    "level": 14,
+    "Aozora Books": 61.59,
+    "NHK Easy": 75.82,
+    "Online News": 65.34,
+    "Twitter": 65.28,
+    "Wikipedia": 64.83
+  },
+  {
+    "level": 15,
+    "Aozora Books": 63.22,
+    "NHK Easy": 77.26,
+    "Online News": 67,
+    "Twitter": 67.56,
+    "Wikipedia": 66.84
+  },
+  {
+    "level": 16,
+    "Aozora Books": 65.31,
+    "NHK Easy": 79.56,
+    "Online News": 69.21,
+    "Twitter": 72.61,
+    "Wikipedia": 69.24
+  },
+  {
+    "level": 17,
+    "Aozora Books": 67.28,
+    "NHK Easy": 81.19,
+    "Online News": 70.99,
+    "Twitter": 74.41,
+    "Wikipedia": 70.82
+  },
+  {
+    "level": 18,
+    "Aozora Books": 68.42,
+    "NHK Easy": 81.91,
+    "Online News": 71.91,
+    "Twitter": 75.64,
+    "Wikipedia": 71.68
+  },
+  {
+    "level": 19,
+    "Aozora Books": 69.5,
+    "NHK Easy": 83.06,
+    "Online News": 73.65,
+    "Twitter": 76.61,
+    "Wikipedia": 73.24
+  },
+  {
+    "level": 20,
+    "Aozora Books": 70.79,
+    "NHK Easy": 85.52,
+    "Online News": 76,
+    "Twitter": 77.87,
+    "Wikipedia": 74.84
+  },
+  {
+    "level": 21,
+    "Aozora Books": 71.91,
+    "NHK Easy": 87.09,
+    "Online News": 79.12,
+    "Twitter": 79.09,
+    "Wikipedia": 76.99
+  },
+  {
+    "level": 22,
+    "Aozora Books": 73.05,
+    "NHK Easy": 88.21,
+    "Online News": 81.27,
+    "Twitter": 80.68,
+    "Wikipedia": 78.48
+  },
+  {
+    "level": 23,
+    "Aozora Books": 74.03,
+    "NHK Easy": 89.25,
+    "Online News": 83.07,
+    "Twitter": 82.1,
+    "Wikipedia": 80.19
+  },
+  {
+    "level": 24,
+    "Aozora Books": 74.89,
+    "NHK Easy": 90.2,
+    "Online News": 84.54,
+    "Twitter": 82.94,
+    "Wikipedia": 81.33
+  },
+  {
+    "level": 25,
+    "Aozora Books": 75.96,
+    "NHK Easy": 90.67,
+    "Online News": 85.93,
+    "Twitter": 83.81,
+    "Wikipedia": 82.31
+  },
+  {
+    "level": 26,
+    "Aozora Books": 76.9,
+    "NHK Easy": 91.13,
+    "Online News": 86.86,
+    "Twitter": 84.48,
+    "Wikipedia": 83.18
+  },
+  {
+    "level": 27,
+    "Aozora Books": 77.82,
+    "NHK Easy": 91.6,
+    "Online News": 87.57,
+    "Twitter": 85.71,
+    "Wikipedia": 83.78
+  },
+  {
+    "level": 28,
+    "Aozora Books": 78.9,
+    "NHK Easy": 92.14,
+    "Online News": 88.49,
+    "Twitter": 86.74,
+    "Wikipedia": 84.88
+  },
+  {
+    "level": 29,
+    "Aozora Books": 79.6,
+    "NHK Easy": 92.81,
+    "Online News": 89.42,
+    "Twitter": 87.33,
+    "Wikipedia": 85.71
+  },
+  {
+    "level": 30,
+    "Aozora Books": 80.32,
+    "NHK Easy": 93.17,
+    "Online News": 89.92,
+    "Twitter": 88.07,
+    "Wikipedia": 86.53
+  },
+  {
+    "level": 31,
+    "Aozora Books": 81.09,
+    "NHK Easy": 93.74,
+    "Online News": 90.54,
+    "Twitter": 88.73,
+    "Wikipedia": 87.58
+  },
+  {
+    "level": 32,
+    "Aozora Books": 82.09,
+    "NHK Easy": 94.31,
+    "Online News": 91.55,
+    "Twitter": 89.56,
+    "Wikipedia": 88.34
+  },
+  {
+    "level": 33,
+    "Aozora Books": 82.81,
+    "NHK Easy": 94.6,
+    "Online News": 91.99,
+    "Twitter": 90,
+    "Wikipedia": 88.95
+  },
+  {
+    "level": 34,
+    "Aozora Books": 83.43,
+    "NHK Easy": 94.9,
+    "Online News": 92.52,
+    "Twitter": 90.57,
+    "Wikipedia": 89.43
+  },
+  {
+    "level": 35,
+    "Aozora Books": 84.49,
+    "NHK Easy": 95.53,
+    "Online News": 92.9,
+    "Twitter": 91.26,
+    "Wikipedia": 89.91
+  },
+  {
+    "level": 36,
+    "Aozora Books": 85.06,
+    "NHK Easy": 96.07,
+    "Online News": 93.84,
+    "Twitter": 91.89,
+    "Wikipedia": 91.18
+  },
+  {
+    "level": 37,
+    "Aozora Books": 85.51,
+    "NHK Easy": 96.55,
+    "Online News": 94.57,
+    "Twitter": 92.49,
+    "Wikipedia": 91.99
+  },
+  {
+    "level": 38,
+    "Aozora Books": 86.08,
+    "NHK Easy": 96.95,
+    "Online News": 95.04,
+    "Twitter": 92.94,
+    "Wikipedia": 92.53
+  },
+  {
+    "level": 39,
+    "Aozora Books": 86.72,
+    "NHK Easy": 97.27,
+    "Online News": 95.51,
+    "Twitter": 93.45,
+    "Wikipedia": 93.14
+  },
+  {
+    "level": 40,
+    "Aozora Books": 87.2,
+    "NHK Easy": 97.46,
+    "Online News": 95.92,
+    "Twitter": 93.84,
+    "Wikipedia": 93.54
+  },
+  {
+    "level": 41,
+    "Aozora Books": 87.62,
+    "NHK Easy": 97.56,
+    "Online News": 96.2,
+    "Twitter": 94.12,
+    "Wikipedia": 93.94
+  },
+  {
+    "level": 42,
+    "Aozora Books": 88.03,
+    "NHK Easy": 97.77,
+    "Online News": 96.5,
+    "Twitter": 94.42,
+    "Wikipedia": 94.22
+  },
+  {
+    "level": 43,
+    "Aozora Books": 88.54,
+    "NHK Easy": 97.93,
+    "Online News": 96.8,
+    "Twitter": 94.81,
+    "Wikipedia": 94.57
+  },
+  {
+    "level": 44,
+    "Aozora Books": 89.16,
+    "NHK Easy": 98.15,
+    "Online News": 96.99,
+    "Twitter": 95.64,
+    "Wikipedia": 94.9
+  },
+  {
+    "level": 45,
+    "Aozora Books": 89.71,
+    "NHK Easy": 98.33,
+    "Online News": 97.26,
+    "Twitter": 96.25,
+    "Wikipedia": 95.35
+  },
+  {
+    "level": 46,
+    "Aozora Books": 90.14,
+    "NHK Easy": 98.64,
+    "Online News": 97.49,
+    "Twitter": 96.53,
+    "Wikipedia": 95.64
+  },
+  {
+    "level": 47,
+    "Aozora Books": 90.61,
+    "NHK Easy": 98.74,
+    "Online News": 97.66,
+    "Twitter": 96.75,
+    "Wikipedia": 95.87
+  },
+  {
+    "level": 48,
+    "Aozora Books": 90.98,
+    "NHK Easy": 98.9,
+    "Online News": 97.82,
+    "Twitter": 97.02,
+    "Wikipedia": 96.07
+  },
+  {
+    "level": 49,
+    "Aozora Books": 91.31,
+    "NHK Easy": 98.97,
+    "Online News": 97.98,
+    "Twitter": 97.21,
+    "Wikipedia": 96.32
+  },
+  {
+    "level": 50,
+    "Aozora Books": 91.61,
+    "NHK Easy": 99.03,
+    "Online News": 98.09,
+    "Twitter": 97.37,
+    "Wikipedia": 96.54
+  },
+  {
+    "level": 51,
+    "Aozora Books": 91.92,
+    "NHK Easy": 99.13,
+    "Online News": 98.26,
+    "Twitter": 97.62,
+    "Wikipedia": 96.87
+  },
+  {
+    "level": 52,
+    "Aozora Books": 92.16,
+    "NHK Easy": 99.28,
+    "Online News": 98.51,
+    "Twitter": 97.87,
+    "Wikipedia": 97.11
+  },
+  {
+    "level": 53,
+    "Aozora Books": 92.34,
+    "NHK Easy": 99.33,
+    "Online News": 98.71,
+    "Twitter": 97.98,
+    "Wikipedia": 97.32
+  },
+  {
+    "level": 54,
+    "Aozora Books": 92.55,
+    "NHK Easy": 99.38,
+    "Online News": 98.8,
+    "Twitter": 98.08,
+    "Wikipedia": 97.47
+  },
+  {
+    "level": 55,
+    "Aozora Books": 92.96,
+    "NHK Easy": 99.43,
+    "Online News": 98.96,
+    "Twitter": 98.23,
+    "Wikipedia": 97.71
+  },
+  {
+    "level": 56,
+    "Aozora Books": 93.21,
+    "NHK Easy": 99.48,
+    "Online News": 99.05,
+    "Twitter": 98.36,
+    "Wikipedia": 97.85
+  },
+  {
+    "level": 57,
+    "Aozora Books": 93.37,
+    "NHK Easy": 99.52,
+    "Online News": 99.1,
+    "Twitter": 98.45,
+    "Wikipedia": 97.97
+  },
+  {
+    "level": 58,
+    "Aozora Books": 93.54,
+    "NHK Easy": 99.54,
+    "Online News": 99.15,
+    "Twitter": 98.5,
+    "Wikipedia": 98.08
+  },
+  {
+    "level": 59,
+    "Aozora Books": 93.78,
+    "NHK Easy": 99.57,
+    "Online News": 99.22,
+    "Twitter": 98.58,
+    "Wikipedia": 98.21
+  },
+  {
+    "level": 60,
+    "Aozora Books": 93.91,
+    "NHK Easy": 99.58,
+    "Online News": 99.24,
+    "Twitter": 98.62,
+    "Wikipedia": 98.25
+  }
+ ]

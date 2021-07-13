@@ -1,0 +1,602 @@
+[
+  {
+    "level": 1,
+    "Grade 1": "21.25",
+    "Grade 2": "0.63",
+    "Grade 3": "0.00",
+    "Grade 4": "0.00",
+    "Grade 5": "0.00",
+    "Grade 6": 0,
+    "Grade 9": 0
+  },
+  {
+    "level": 2,
+    "Grade 1": "58.75",
+    "Grade 2": "2.50",
+    "Grade 3": "0.50",
+    "Grade 4": "0.00",
+    "Grade 5": "0.00",
+    "Grade 6": 0,
+    "Grade 9": 0.18
+  },
+  {
+    "level": 3,
+    "Grade 1": "60.00",
+    "Grade 2": "21.25",
+    "Grade 3": "0.50",
+    "Grade 4": "0.00",
+    "Grade 5": "0.00",
+    "Grade 6": 0,
+    "Grade 9": 0.18
+  },
+  {
+    "level": 4,
+    "Grade 1": "87.50",
+    "Grade 2": "21.25",
+    "Grade 3": "8.00",
+    "Grade 4": "0.50",
+    "Grade 5": "0.00",
+    "Grade 6": 0.55,
+    "Grade 9": 0.18
+  },
+  {
+    "level": 5,
+    "Grade 1": "97.50",
+    "Grade 2": "41.88",
+    "Grade 3": "8.50",
+    "Grade 4": "0.50",
+    "Grade 5": "0.00",
+    "Grade 6": 0.55,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 6,
+    "Grade 1": "97.50",
+    "Grade 2": "58.75",
+    "Grade 3": "14.50",
+    "Grade 4": "0.50",
+    "Grade 5": "0.00",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 7,
+    "Grade 1": "98.75",
+    "Grade 2": "71.25",
+    "Grade 3": "15.00",
+    "Grade 4": "6.00",
+    "Grade 5": "0.00",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 8,
+    "Grade 1": "100.00",
+    "Grade 2": "80.63",
+    "Grade 3": "22.50",
+    "Grade 4": "6.00",
+    "Grade 5": "0.54",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 9,
+    "Grade 1": "---",
+    "Grade 2": "81.88",
+    "Grade 3": "37.50",
+    "Grade 4": "7.50",
+    "Grade 5": "1.62",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 10,
+    "Grade 1": "---",
+    "Grade 2": "88.13",
+    "Grade 3": "50.00",
+    "Grade 4": "8.50",
+    "Grade 5": "1.62",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 11,
+    "Grade 1": "---",
+    "Grade 2": "88.13",
+    "Grade 3": "58.00",
+    "Grade 4": "19.50",
+    "Grade 5": "1.62",
+    "Grade 6": 1.66,
+    "Grade 9": 0.27
+  },
+  {
+    "level": 12,
+    "Grade 1": "---",
+    "Grade 2": "89.38",
+    "Grade 3": "75.50",
+    "Grade 4": "19.50",
+    "Grade 5": "1.62",
+    "Grade 6": 2.21,
+    "Grade 9": 0.35
+  },
+  {
+    "level": 13,
+    "Grade 1": "---",
+    "Grade 2": "89.38",
+    "Grade 3": "83.50",
+    "Grade 4": "27.00",
+    "Grade 5": "3.24",
+    "Grade 6": 3.31,
+    "Grade 9": 0.44
+  },
+  {
+    "level": 14,
+    "Grade 1": "---",
+    "Grade 2": "89.38",
+    "Grade 3": "83.50",
+    "Grade 4": "37.00",
+    "Grade 5": "6.49",
+    "Grade 6": 3.87,
+    "Grade 9": 0.71
+  },
+  {
+    "level": 15,
+    "Grade 1": "---",
+    "Grade 2": "94.38",
+    "Grade 3": "85.50",
+    "Grade 4": "45.00",
+    "Grade 5": "7.57",
+    "Grade 6": 4.42,
+    "Grade 9": 0.88
+  },
+  {
+    "level": 16,
+    "Grade 1": "---",
+    "Grade 2": "97.50",
+    "Grade 3": "90.50",
+    "Grade 4": "48.50",
+    "Grade 5": "10.27",
+    "Grade 6": 6.08,
+    "Grade 9": 1.15
+  },
+  {
+    "level": 17,
+    "Grade 1": "---",
+    "Grade 2": "98.75",
+    "Grade 3": "92.00",
+    "Grade 4": "57.50",
+    "Grade 5": "12.43",
+    "Grade 6": 8.29,
+    "Grade 9": 1.68
+  },
+  {
+    "level": 18,
+    "Grade 1": "---",
+    "Grade 2": "100.00",
+    "Grade 3": "92.50",
+    "Grade 4": "61.50",
+    "Grade 5": "15.14",
+    "Grade 6": 11.6,
+    "Grade 9": 2.21
+  },
+  {
+    "level": 19,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "93.00",
+    "Grade 4": "66.50",
+    "Grade 5": "20.54",
+    "Grade 6": 15.47,
+    "Grade 9": 2.65
+  },
+  {
+    "level": 20,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "93.00",
+    "Grade 4": "69.50",
+    "Grade 5": "28.11",
+    "Grade 6": 17.68,
+    "Grade 9": 3.45
+  },
+  {
+    "level": 21,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "93.50",
+    "Grade 4": "70.50",
+    "Grade 5": "39.46",
+    "Grade 6": 20.44,
+    "Grade 9": 3.81
+  },
+  {
+    "level": 22,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.00",
+    "Grade 4": "73.50",
+    "Grade 5": "45.95",
+    "Grade 6": 23.76,
+    "Grade 9": 4.51
+  },
+  {
+    "level": 23,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.00",
+    "Grade 4": "74.00",
+    "Grade 5": "52.43",
+    "Grade 6": 30.39,
+    "Grade 9": 4.96
+  },
+  {
+    "level": 24,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.00",
+    "Grade 4": "77.00",
+    "Grade 5": "56.76",
+    "Grade 6": 34.81,
+    "Grade 9": 5.75
+  },
+  {
+    "level": 25,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.00",
+    "Grade 4": "79.00",
+    "Grade 5": "61.08",
+    "Grade 6": 36.46,
+    "Grade 9": 7.43
+  },
+  {
+    "level": 26,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.50",
+    "Grade 4": "80.00",
+    "Grade 5": "65.95",
+    "Grade 6": 40.88,
+    "Grade 9": 8.58
+  },
+  {
+    "level": 27,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "94.50",
+    "Grade 4": "82.50",
+    "Grade 5": "68.65",
+    "Grade 6": 43.65,
+    "Grade 9": 10.09
+  },
+  {
+    "level": 28,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "95.00",
+    "Grade 4": "85.50",
+    "Grade 5": "74.05",
+    "Grade 6": 46.41,
+    "Grade 9": 11.06
+  },
+  {
+    "level": 29,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "95.50",
+    "Grade 4": "87.50",
+    "Grade 5": "75.14",
+    "Grade 6": 47.51,
+    "Grade 9": 13.19
+  },
+  {
+    "level": 30,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "96.00",
+    "Grade 4": "88.50",
+    "Grade 5": "77.84",
+    "Grade 6": 50.28,
+    "Grade 9": 14.87
+  },
+  {
+    "level": 31,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "96.00",
+    "Grade 4": "94.50",
+    "Grade 5": "81.08",
+    "Grade 6": 51.93,
+    "Grade 9": 16.19
+  },
+  {
+    "level": 32,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "96.00",
+    "Grade 4": "94.50",
+    "Grade 5": "91.35",
+    "Grade 6": 58.56,
+    "Grade 9": 16.46
+  },
+  {
+    "level": 33,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "96.00",
+    "Grade 4": "94.50",
+    "Grade 5": "91.35",
+    "Grade 6": 75.14,
+    "Grade 9": 16.64
+  },
+  {
+    "level": 34,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "96.50",
+    "Grade 4": "94.50",
+    "Grade 5": "92.97",
+    "Grade 6": 85.64,
+    "Grade 9": 17.61
+  },
+  {
+    "level": 35,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "97.50",
+    "Grade 4": "94.50",
+    "Grade 5": "95.68",
+    "Grade 6": 86.19,
+    "Grade 9": 19.56
+  },
+  {
+    "level": 36,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "97.50",
+    "Grade 4": "94.50",
+    "Grade 5": "96.76",
+    "Grade 6": 87.85,
+    "Grade 9": 22.04
+  },
+  {
+    "level": 37,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "98.00",
+    "Grade 4": "95.50",
+    "Grade 5": "96.76",
+    "Grade 6": 88.4,
+    "Grade 9": 24.69
+  },
+  {
+    "level": 38,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "98.00",
+    "Grade 4": "95.50",
+    "Grade 5": "97.30",
+    "Grade 6": 88.95,
+    "Grade 9": 27.43
+  },
+  {
+    "level": 39,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "98.00",
+    "Grade 4": "95.50",
+    "Grade 5": "97.84",
+    "Grade 6": 90.06,
+    "Grade 9": 30.18
+  },
+  {
+    "level": 40,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "98.50",
+    "Grade 4": "96.00",
+    "Grade 5": "97.84",
+    "Grade 6": 90.61,
+    "Grade 9": 33.01
+  },
+  {
+    "level": 41,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "97.00",
+    "Grade 5": "98.38",
+    "Grade 6": 93.37,
+    "Grade 9": 34.78
+  },
+  {
+    "level": 42,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "97.00",
+    "Grade 5": "98.38",
+    "Grade 6": 93.37,
+    "Grade 9": 37.7
+  },
+  {
+    "level": 43,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "98.00",
+    "Grade 5": "98.38",
+    "Grade 6": 94.48,
+    "Grade 9": 40.35
+  },
+  {
+    "level": 44,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "98.50",
+    "Grade 5": "98.38",
+    "Grade 6": 95.03,
+    "Grade 9": 43.19
+  },
+  {
+    "level": 45,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "98.50",
+    "Grade 5": "98.38",
+    "Grade 6": 95.03,
+    "Grade 9": 46.19
+  },
+  {
+    "level": 46,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "98.50",
+    "Grade 5": "99.46",
+    "Grade 6": 95.03,
+    "Grade 9": 49.03
+  },
+  {
+    "level": 47,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "99.50",
+    "Grade 4": "98.50",
+    "Grade 5": "99.46",
+    "Grade 6": 95.58,
+    "Grade 9": 52.04
+  },
+  {
+    "level": 48,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "100.00",
+    "Grade 4": "99.00",
+    "Grade 5": "99.46",
+    "Grade 6": 96.13,
+    "Grade 9": 55.04
+  },
+  {
+    "level": 49,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.00",
+    "Grade 5": "99.46",
+    "Grade 6": 96.69,
+    "Grade 9": 58.05
+  },
+  {
+    "level": 50,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.00",
+    "Grade 5": "99.46",
+    "Grade 6": 97.79,
+    "Grade 9": 60.62
+  },
+  {
+    "level": 51,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "100.00",
+    "Grade 6": 98.34,
+    "Grade 9": 63.19
+  },
+  {
+    "level": 52,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "---",
+    "Grade 6": 98.34,
+    "Grade 9": 65.84
+  },
+  {
+    "level": 53,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "---",
+    "Grade 6": 98.34,
+    "Grade 9": 68.05
+  },
+  {
+    "level": 54,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "---",
+    "Grade 6": 98.34,
+    "Grade 9": 70.71
+  },
+  {
+    "level": 55,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "---",
+    "Grade 6": 98.34,
+    "Grade 9": 73.36
+  },
+  {
+    "level": 56,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "99.50",
+    "Grade 5": "---",
+    "Grade 6": 98.9,
+    "Grade 9": 75.75
+  },
+  {
+    "level": 57,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "100.00",
+    "Grade 5": "---",
+    "Grade 6": 98.9,
+    "Grade 9": 78.32
+  },
+  {
+    "level": 58,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "---",
+    "Grade 5": "---",
+    "Grade 6": 99.45,
+    "Grade 9": 80.88
+  },
+  {
+    "level": 59,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "---",
+    "Grade 5": "---",
+    "Grade 6": 99.45,
+    "Grade 9": 83.98
+  },
+  {
+    "level": 60,
+    "Grade 1": "---",
+    "Grade 2": "---",
+    "Grade 3": "---",
+    "Grade 4": "---",
+    "Grade 5": "---",
+    "Grade 6": 99.45,
+    "Grade 9": 86.73
+  }
+ ]
